@@ -59,12 +59,14 @@ You can choose _one_ of the following three ways to get started with darkflow.
 
 # References
 
-- Real-time object detection and classification. Paper: [version 1](https://arxiv.org/pdf/1506.02640.pdf), [version 2](https://arxiv.org/pdf/1612.08242.pdf). 
+- Real-time object detection and classification. Paper: [version 1](https://arxiv.org/pdf/1506.02640.pdf), [version 2](https://arxiv.org/pdf/1612.08242.pdf).
+
+- Simple Online and Realtime Tracking [paper](https://arxiv.org/pdf/1602.00763)
+
 - Official [YOLO](https://pjreddie.com/darknet/yolo/) website.
 
 - I have learned YOLO, how it works from [coursera](https://www.coursera.org/lecture/convolutional-neural-networks/yolo-algorithm-fF3O0). Also Siraj has a nice [tutorial](https://www.youtube.com/watch?v=4eIBisqx9_g&t=1170s) on it. 
 
 - The original darkflow repo is [this](https://github.com/thtrieu/darkflow) by [Trieu](https://github.com/thtrieu).
 
-- To have video description of the codes and more understanding follow [this](https://www.youtube.com/watch?v=PyjBd7IDYZs&index=1&list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM) videos. I have followed Mark Jay a lot whil making this project.
 <br>
